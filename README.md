@@ -2,7 +2,7 @@
 Data optimization of a specific logistic project. <br>
 <br>
 **Bachelor Thesis Project:** <br>
-Optimization of loading and distributing of goods throug the Classic Transportation Problem and the Loading Transportation Problem.  <br>
+Optimization of loading and distribution of goods through the Classic Transportation Problem and the Loading Transportation Problem.  <br>
 **Task:**<br>
 Finding out whether the company is proceeding effectively in solving the logistics project - reduce costs. <br>
 **Data:** <br>
