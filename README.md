@@ -7,7 +7,7 @@ Optimization of loading and distribution of goods through the Classic Transporta
 Finding out whether the company is proceeding effectively in solving the logistics project - reduce costs. <br>
 **Data:** <br>
 DB Schenker <br>
-**Software:** <br>
+**Tool:** <br>
 LINGO <br>
 <br>
 **Abstract:**<br>
